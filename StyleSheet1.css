@@ -1,0 +1,52 @@
+﻿body {
+    background-image: url(Images1/gg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: thin black;
+}
+
+.Btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+
+.Drop {
+    color: white;
+    font-size: 13px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    font-weight: normal;
+}
+
+.Lab {
+    display: inline-block;
+    font-family: Arial;
+    font-size: 16px;
+    color: white
+}
+
+.Txt {
+    border: 3px solid #4CAF50;
+    border-radius: 4px;
+}
+
+.Head {
+    color: orange;
+    font-family: Arial;
+}
+
+.Line {
+    border: 1px solid #4CAF50;
+}
